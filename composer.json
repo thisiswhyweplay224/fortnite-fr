@@ -1,0 +1,24 @@
+{
+    "name": "comment-avoir-des-v-bucks-gratuit-sur-fortnite-triche-et/astuces-vbucks-et-skins-illimites-ps4-xboxone-ios-android-switch",
+    "type": "library",
+    "description": "Générateur Skins et vBucks En ligne sur Fortnite pour Android et iOS 2019 - Skins et vBucks illimités,",
+    "keywords": ["Skins et vBucks gratuit Fortnite","Skins et vBucks illimités Fortnite","comment avoir des Skins et vBucks sur Fortnite"],
+    "homepage": "https://commentavoirdesvbucks.com/?ref=gitlib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Comment Avoir Des Skins et vBucks en Fortnite illimités Gratuit Android et iOS [Générateur Skins et vBucks illimités en Fortnite] 2019 CLIQUEZ ICI POUR GENERER EN LIGNE",
+            "website": "https://commentavoirdesvbucks.com/?ref=gitlib",
+            "homepage": "https://commentavoirdesvbucks.com/?ref=gitlib",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
